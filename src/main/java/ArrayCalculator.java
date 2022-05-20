@@ -1,8 +1,10 @@
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
 public class ArrayCalculator {
+
     public int[] pullOut(int[] input) {
 
         if (input.length == 0)
